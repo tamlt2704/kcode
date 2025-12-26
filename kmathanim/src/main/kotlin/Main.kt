@@ -22,5 +22,5 @@ class MovingDot : Scene2D() {
 }
 
 fun main() {
-    MovingDot().execute()
+    ListAndSet().execute()
 }
